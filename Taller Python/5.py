@@ -52,6 +52,7 @@ elif numero ==6:
 
     resul= n1%n2
     print(f'el resultado es : {resul}')   
+    print('este es un cambio como ejemplo para git')
 
 
 
